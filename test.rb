@@ -1,8 +1,9 @@
 import time
 import sys
 import os
+
 system('clear')
-os.system('figlet by tekashi
+os.system('figlet by tekashi')
 time.sleep(5.0)
 system('clear')
     print("⣠⠴⠒⢛⣋⣉⣉⣉⣉⣛⠓⠦⣤⣀⠀⠀⠀⠀⠀⠀
