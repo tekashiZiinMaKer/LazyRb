@@ -4,7 +4,7 @@ import os
 
 system('clear')
 os.system('figlet by tekashi')
-time.sleep(5.0)
+os.systen('time.sleep(5.0)')
 system('clear')
     print("⣠⠴⠒⢛⣋⣉⣉⣉⣉⣛⠓⠦⣤⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⠴⢚⡭⠖⠚⠉⠉⠁⠀⠀⠀⠀⠉⠉⠓⠲⢭⡓⢦⡀⠀⠀⠀
@@ -33,7 +33,7 @@ system('clear')
 ⠁⠀⠀⠀⠀⠀⠁⡾⠀⢹⡘⠃⠀⠀⠀⠀⠀⠈⢣⢤⡀⠀⠀⠀⢠⠇⠀⢸⢸⡆
 ⠀⠀⠀⠀⠀⠀⢾⡇⠀⠀⢳⡀⠀⠀⠀⠀⠀⠀⠀⢧⠙⠆⠀⢠⠏⠀⠀⡟⠀⡇
 ⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⢠⠏⠀⠀⠀⡇")
-Time.sleep(5.0)
+os.system('time.sleep(5.0)')
 system('clear')
 def back
     printf "Aperte a tecla enter para voltar ao menu...".colorize(:color => :light_blue)
