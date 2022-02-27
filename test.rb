@@ -36,7 +36,7 @@ while true do
 
     system('clear')
      
-    puts ' __                                    
+print(" __                                    
 /\ \                                   
 \ \ \         __     ____    __  __    
  \ \ \  __  /'__`\  /\_ ,`\ /\ \/\ \   
@@ -44,7 +44,7 @@ while true do
    \ \____/\ \__/.\_\ /\____\\/`____ \ 
     \/___/  \/__/\/_/ \/____/ `/___/> \
                                  /\___/
-                                 \/__/ '.colorize(:color => :red)
+                                 \/__/ ").colorize(:color => :red)
 
     puts '
     [*] --- https://github.com/tekashiZiinMaKer --- [*]
