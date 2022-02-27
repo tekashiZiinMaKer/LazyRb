@@ -1,9 +1,3 @@
-# faixa
-import ('socket')
-import ('random')
-import ('os')
-import ('sys')
-import ('time')
 
 system('clear')
 os.system('figlet by tekashi')
