@@ -42,8 +42,8 @@ while true do
     [*] --- https://github.com/tekashiZiinMaKer --- [*]
     '.colorize(:color => :light_blue) 
 puts'======================='.colorize(:color => :light_blue) 
-puts'{branco}[{verde} 1 {branco}] Consulta CEP
-[ 2 ] Consulta DDD
+print"{branco}[{verde} 1 {branco}] Consulta CEP"
+puts'[ 2 ] Consulta DDD
 [ 3 ] Consulta IP
 [ 4 ] Consulta CNPJ'
 puts'===================='.colorize(:color => :light_blue)
