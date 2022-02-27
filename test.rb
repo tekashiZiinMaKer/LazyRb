@@ -42,10 +42,9 @@ while true do
 ##       ##     ##    ##       ##    
 ##       #########   ##        ##    
 ##       ##     ##  ##         ##    
-######## ##     ## ########    ##    ")
+######## ##     ## ########    ##")
 
 
-puts'====================='.colorize(:color => :light_blue) 
 puts'[ 1 ] Consulta CEP
 [ 2 ] Consulta DDD
 [ 3 ] Consulta IP
