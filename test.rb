@@ -42,7 +42,8 @@ puts'======================='.colorize(:color => :light_blue)
 puts'[ 1 ] Consulta CEP
 [ 2 ] Consulta DDD
 [ 3 ] Consulta IP
-[ 4 ] Consulta CNPJ'.colorize(:color => :green)
+[ 4 ] Consulta CNPJ'
+puts'===================='.colorize(:color => :light_blue)
 
     printf'
     -->> '.colorize(:color => :cyan)
