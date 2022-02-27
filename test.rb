@@ -1,3 +1,6 @@
+# Variáveis de corss.
+Vermelho="\033[1;31m";Azul="\033[1;34m";Branco="\033[1;37m";Verde="\033[1;32m"
+
 def back
     printf "Aperte a tecla enter para voltar ao menu...".colorize(:color => :light_blue)
     
@@ -39,7 +42,7 @@ while true do
     [*] --- https://github.com/tekashiZiinMaKer --- [*]
     '.colorize(:color => :light_blue) 
 puts'======================='.colorize(:color => :light_blue) 
-puts'[ 1 ] Consulta CEP
+puts'{branco}[{verde} 1 {branco}] Consulta CEP
 [ 2 ] Consulta DDD
 [ 3 ] Consulta IP
 [ 4 ] Consulta CNPJ'
