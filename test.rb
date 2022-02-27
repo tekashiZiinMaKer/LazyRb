@@ -43,7 +43,7 @@ while true do
     '.colorize(:color => :light_blue) 
 puts'====================='.colorize(:color => :light_blue) 
 puts'[' puts'1'. colorize ( :color => :green ) puts'] Consulta CEP'
-[ 2 ] Consulta DDD
+puts'[ 2 ] Consulta DDD
 [ 3 ] Consulta IP
 [ 4 ] Consulta CNPJ'
 puts'===================='.colorize(:color => :light_blue)
