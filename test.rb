@@ -1,6 +1,7 @@
 # import
-import sys
+
 import os
+import sys
 import time
 
 system('clear')
