@@ -1,6 +1,7 @@
-import time
+# import
 import sys
 import os
+import time
 
 system('clear')
 os.system('figlet by tekashi')
