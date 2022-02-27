@@ -42,7 +42,7 @@ while true do
     [*] --- https://github.com/tekashiZiinMaKer --- [*]
     '.colorize(:color => :light_blue) 
 puts'====================='.colorize(:color => :light_blue) 
-puts'[ 1 ] 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗮 𝗖𝗘𝗣
+puts'[ 1 ] Consulta CEP
 [ 2 ] Consulta DDD
 [ 3 ] Consulta IP
 [ 4 ] Consulta CNPJ'
