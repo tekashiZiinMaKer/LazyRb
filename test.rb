@@ -44,8 +44,8 @@ while true do
 ##       ##     ##  ##         ##    
 ######## ##     ## ########    ##")
         puts'  '
-        puts'Author: tekashiZiinMaKer'
-
+        puts'     Author: tekashiZiinMaKer  '
+        puts'  '
 puts'====================='.colorize(:color => :light_blue) 
 puts'[ 1 ] Consulta CEP
 [ 2 ] Consulta DDD
