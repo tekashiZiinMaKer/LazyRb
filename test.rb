@@ -36,7 +36,7 @@ while true do
 
     system('clear')
      
-print(" __                                    
+    print(" __                                    
 /\ \                                   
 \ \ \         __     ____    __  __    
  \ \ \  __  /'__`\  /\_ ,`\ /\ \/\ \   
@@ -44,7 +44,7 @@ print(" __
    \ \____/\ \__/.\_\ /\____\\/`____ \ 
     \/___/  \/__/\/_/ \/____/ `/___/> \
                                  /\___/
-                                 \/__/ ").colorize(:color => :red)
+                                 \/__/ ")
 
     puts '
     [*] --- https://github.com/tekashiZiinMaKer --- [*]
