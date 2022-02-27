@@ -1,7 +1,7 @@
 
 system('clear')
-os.system('figlet by tekashi')
-os.systen('time.sleep(5.0)')
+ system('figlet by tekashi')
+ systen('time.sleep(5.0)')
 system('clear')
     print("⣠⠴⠒⢛⣋⣉⣉⣉⣉⣛⠓⠦⣤⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⠴⢚⡭⠖⠚⠉⠉⠁⠀⠀⠀⠀⠉⠉⠓⠲⢭⡓⢦⡀⠀⠀⠀
