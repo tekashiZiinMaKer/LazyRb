@@ -1,5 +1,6 @@
-# import
-
+# faixa
+import socket
+import random
 import os
 import sys
 import time
