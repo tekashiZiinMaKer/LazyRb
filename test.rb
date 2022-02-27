@@ -43,7 +43,7 @@ while true do
 ##       #########   ##        ##    
 ##       ##     ##  ##         ##    
 ######## ##     ## ########    ##")
-        printt("Author: tekashiZiinMaKer")
+        print("Author: tekashiZiinMaKer")
 
 puts'====================='.colorize(:color => :light_blue) 
 puts'[ 1 ] Consulta CEP
