@@ -43,6 +43,7 @@ while true do
 ##       #########   ##        ##    
 ##       ##     ##  ##         ##    
 ######## ##     ## ########    ##")
+        puts'  '
         puts'Author: tekashiZiinMaKer'
 
 puts'====================='.colorize(:color => :light_blue) 
