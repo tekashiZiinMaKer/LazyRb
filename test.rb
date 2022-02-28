@@ -33,7 +33,7 @@ while true do
 
     system('clear')
      
-    system'figlet tekashi'
+    system'figlet tekashi'.colorize(:color => :cyan)
         puts'  '
         puts'     Author: tekashiZiinMaKer  '
         puts'  '
