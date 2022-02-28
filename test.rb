@@ -33,7 +33,7 @@ while true do
 
     system('clear')
      
-    os.system'figlet tekashi'
+    system'figlet tekashi'
         puts'  '
         puts'     Author: tekashiZiinMaKer  '
         puts'  '
