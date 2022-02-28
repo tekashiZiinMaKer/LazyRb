@@ -39,9 +39,9 @@ while true do
 ██║░░░░░██╔══██║██╔══╝░░░░╚██╔╝░░╚════╝██╔══██╗██╔══██╗
 ███████╗██║░░██║███████╗░░░██║░░░░░░░░░██║░░██║██████╦╝
 ╚══════╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░░░░░░░╚═╝░░╚═╝╚═════╝░'.colorize(:color => :red)
-        puts'     Author: tekashiZiinMaKer  '
+        puts'                         Author: tekashiZiinMaKer  '
 puts'====================='.colorize(:color => :light_blue) 
-puts'[ 1 ] Consulta CEP
+puts'                             [ 1 ] Consulta CEP
 [ 2 ] Consulta DDD
 [ 3 ] Consulta IP
 [ 4 ] Consulta CNPJ'
