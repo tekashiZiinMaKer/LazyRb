@@ -46,10 +46,10 @@ puts'=============================================================='.colorize(:c
 puts'                 [ １ ] Ｃｏｎｓｕｌｔａ ＣＥＰ
                  [ ２ ] Ｃｏｎｓｕｌｔａ ＤＤＤ   
                  [ ３ ] Ｃｏｎｓｕｌｔａ ＩＰ
-                 [ ４ ] Ｃｏｎｓｕｌｔａ ＣＮＰＪ'.colorize(:color => :blue)
+                 [ ４ ] Ｃｏｎｓｕｌｔａ ＣＮＰＪ'.colorize(:color => :light_red)
 puts'=============================================================='.colorize(:color => :light_blue)
     printf'
-    -->> '.colorize(:color => :cyan)
+    -->> '
 
     user = gets.chomp.to_i
 
