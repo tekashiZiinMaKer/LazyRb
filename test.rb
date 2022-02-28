@@ -43,10 +43,10 @@ puts'=============================================================='.colorize(:c
 puts'                     █▀█ █▀█ ▀█▀ █ █▀█ █▄ █
                      █▄█ █▀▀  █  █ █▄█ █ ▀█'
 puts'=============================================================='.colorize(:color => :light_blue)
-puts'                     [ 1 ] Consulta CEP
-                     [ 2 ] Consulta DDD
-                     [ 3 ] Consulta IP
-                     [ 4 ] Consulta CNPJ'.colorize(:color => :blue)
+puts'                     [ １ ] Ｃｏｎｓｕｌｔａ ＣＥＰ
+                     [ ２ ] Ｃｏｎｓｕｌｔａ ＤＤＤ   
+                     [ ３ ] Ｃｏｎｓｕｌｔａ ＩＰ
+                     [ ４ ] Ｃｏｎｓｕｌｔａ ＣＮＰＪ'.colorize(:color => :blue)
 puts'=============================================================='.colorize(:color => :light_blue)
     printf'
     -->> '.colorize(:color => :cyan)
