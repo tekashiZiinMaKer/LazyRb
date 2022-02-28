@@ -1,4 +1,4 @@
-<h1 align="center"> Scanner 🦅</h1>
+<h1 align="center"> Dark Lazy 🎩</h1>
 
 ## [+] Demonstration 
 ![Banner](agr nao)
