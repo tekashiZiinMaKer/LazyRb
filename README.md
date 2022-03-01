@@ -1,7 +1,7 @@
 <h1 align="center"> Dark Lazy 🎩</h1>
 
 ## [+] Demonstration 
-![Banner](agr nao)
+![Banner](https://github.com/tekashiZiinMaKer/LazyRb/blob/c44266ea22b9ec6df1a4e924d16f4f5d47f379cf/Screenshot_20220301-145528_Termux.jpg)
 
 ## [+] Features
 - [x] CEP
